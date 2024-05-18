@@ -34,7 +34,7 @@ main {
   background: var(--profile-color);
   border-radius: 1rem;
   padding: 2rem;
-  width: 26rem;
+  width: 30rem;
   margin-bottom: 2rem;
 }
 
@@ -101,7 +101,7 @@ a:active {
 /* Responsive Design */
 @media only screen and (min-width: 992px) {
   .container {
-    width: 30rem;
+    width: 32rem;
   }
   .profile-photo {
     padding-top: 2rem;
